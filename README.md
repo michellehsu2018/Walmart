@@ -1,1 +1,1 @@
-# Walmart
+# Walmart Customer Trip Type Classification
